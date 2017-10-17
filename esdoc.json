@@ -1,0 +1,5 @@
+{
+  "source": "client",
+  "destination": "./esdoc",
+  "includes": ["\\.(jsx?|es6)$"]
+}

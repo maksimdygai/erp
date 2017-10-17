@@ -1,0 +1,4 @@
+{
+	"plugins": ["transform-react-jsx-img-import"],
+	"presets": ["es2015", "stage-0", "react"]
+}

@@ -1,0 +1,6 @@
+export const FETCH_CLIENTS_FAILURE = 'FETCH_CLIENTS_FAILURE';
+export const FETCH_CLIENTS_REQUEST = 'FETCH_CLIENTS_REQUEST';
+export const FETCH_CLIENTS_SUCCESS = 'FETCH_CLIENTS_SUCCESS';
+export const POST_CLIENT           = 'POST_CLIENT';
+export const REMOVE_CLIENT         = 'REMOVE_CLIENT';
+export const VIEW_CLIENT           = 'VIEW_CLIENT';

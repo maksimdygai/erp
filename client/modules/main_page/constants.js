@@ -1,0 +1,6 @@
+export const SET_MAINPAGE_DATA    = 'SET_MAINPAGE_DATA';
+export const SET_MAINPAGE_SIDEBAR = 'SET_MAINPAGE_SIDEBAR';
+export const SHOW_MODAL           = 'SHOW_MODAL';
+export const TOGGLE_COLLAPSABLE   = 'TOGGLE_COLLAPSABLE';
+export const TOGGLE_DROPDOWN      = 'TOGGLE_DROPDOWN';
+export const TOGGLE_SIDEBAR       = 'TOGGLE_SIDEBAR';

@@ -1,0 +1,1 @@
+export default value => value ? 'Да' : 'Нет';

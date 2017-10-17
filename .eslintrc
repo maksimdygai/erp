@@ -1,0 +1,25 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "indent": [2, 4, { "SwitchCase": 1 }],
+        "max-len": [2, 120],
+        "consistent-return": "off",
+        "no-unreachable": "off",
+        "react/jsx-indent": [2, 4],
+        "react/jsx-indent-props": [2, 4],
+        "brace-style": "off",
+        "jsx-a11y/img-has-alt": "off"
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "parser": "babel-eslint",
+    "settings": {
+        "import/resolver": {
+            "webpack": {
+                "config": "webpack.config.js"
+            }
+        }
+    }
+}

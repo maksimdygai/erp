@@ -1,0 +1,5 @@
+export const FETCH_UNITS_FAILURE = 'FETCH_UNITS_FAILURE';
+export const FETCH_UNITS_REQUEST = 'FETCH_UNITS_REQUEST';
+export const FETCH_UNITS_SUCCESS = 'FETCH_UNITS_SUCCESS';
+export const REMOVE_UNIT         = 'REMOVE_UNIT';
+export const VIEW_UNIT           = 'VIEW_UNIT';

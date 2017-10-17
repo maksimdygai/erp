@@ -1,0 +1,6 @@
+export const FETCH_ROLES_REQUEST = 'FETCH_ROLES_REQUEST';
+export const FETCH_ROLES_SUCCESS = 'FETCH_ROLES_SUCCESS';
+export const FETCH_ROLES_FAILURE = 'FETCH_ROLES_FAILURE';
+export const REMOVE_ROLE         = 'REMOVE_ROLE';
+export const SET_ROLESMESSAGE    = 'SET_ROLESMESSAGE';
+export const VIEW_ROLE           = 'VIEW_ROLE';
